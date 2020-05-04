@@ -102,7 +102,7 @@ ___
 ___
 ## 7. Create Wordpress setup in one click with backup
   
-  ** To achieve you have to first install this all:**
+  ** To achieve you have to first install this all: **
     `$ docker pull wordpress:5.1.1-php7.3-apache`
     `$ docker pull mysql:5.7`
     `$ yum install mysql`
