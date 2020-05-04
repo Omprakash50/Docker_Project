@@ -34,16 +34,16 @@ Only for Redhat8 Linux
    - systemctl enable docker
 
 **After all this done you have to restart the Redhat**
----
+___
 # For Output
 ```
 python3 updatedprojectmain.py
 ```
-___
+
 ## Menu 
   
   ![m](Welcome.png)
-
+___
 ## 1. Create your own webserver in just one click 
   
   ![m](press1.png)
@@ -53,14 +53,14 @@ ___
   you have to give unique port number for your webserver and just write the contain that you want to display.  
   
   ![m](output1.png)
-
+___
 ## 2. Make your own container and make image of that container
   
   ![m](press2.png)  
   
   This will make new image for you.
   You can add many features in your image and can use whenever require. 
-
+___
 ## 3. To create your own network and  change the network of any container
   
   ![m](press3a.png) 
@@ -70,28 +70,28 @@ ___
   ![m](press3b.png)  
   
   Here after pressing 2 you will be able to change the network of any container
-  
+___  
 ## 4. To export your container image to another device  
   
   ![m](press4.png)
   
   By this you can export any image to other system provided that both systems are connected to each other 
-  Once you export image you have to run this commands(provided by program) to load that image in that system  
+  Once you export image you have to run this commands(provided by program) to load that image in that system.  
   
   ![m](output4.png)
   
-  To check image file is export or not in that system run: `ls` command
-  
+  To check image file is export or not in that system run: `ls` command.
+___  
 ## 5. To upload  your container image to on docker hub
   ![m](press5.png)
   
   First give Username and password to login, then give the image name with its tag which you want to upload.
-  It will consume data depend on your image
+  It will consume data depend on your image.
   
   ![m](output5.png)     
   
-  Check on docker hub it is upload or not
-
+  Check on docker hub it is upload or not.
+___
 ##  6. To create n numbers of webserver give comman name to all and attach one backup to it
   
   ![m](press6.png) 
@@ -99,7 +99,7 @@ ___
   All the webserver will have different IPAddress. 
   To ping each other with their name use `curl` command 
   If you create any file in one container it will be created in all the containers because we had attach backup to it. 
-
+___
 ## 7. Create Wordpress setup in one click with backup
   
   ** To achieve you have to first install this all:
@@ -110,8 +110,8 @@ ___
   ![m](press7.png)
   
   ![m](output7.png)
-  
-
+___  
+___
 >Keep smiling and work harder  
   
 ## Author
