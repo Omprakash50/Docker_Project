@@ -102,8 +102,9 @@ python3 updatedprojectmain.py
 ## 7. Create Wordpress setup in one click with backup
   
   ** To achieve you have to first install this all:
-     `sudo curl -L https://github.com/docker/compose/releases/download/1.21.2/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose'
-     `sudo chmod +x /usr/local/bin/docker-compose`       
+    `$ docker pull wordpress:5.1.1-php7.3-apache`
+    `$ docker pull mysql:5.7`
+    `$ yum install mysql`
                      
   ![m](press7.png)
   
