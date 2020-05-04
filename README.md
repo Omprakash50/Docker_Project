@@ -48,7 +48,8 @@ python3 updatedprojectmain.py
   ![m](press1.png)
   
   After you press enter it will pull one image from docker hub created by me which will help to create
-  webserver. you have to give unique port number for your webserver and just write the contain that you want to display.  
+  webserver. 
+  you have to give unique port number for your webserver and just write the contain that you want to display.  
   
   ![m](output1.png)
 
@@ -57,7 +58,7 @@ python3 updatedprojectmain.py
   ![m](press2.png)  
   
   This will make new image for you.
-  you can add many features in your image and can use whenever require. 
+  You can add many features in your image and can use whenever require. 
 
 ## 3. To create your own network and  change the network of any container
   
@@ -100,10 +101,11 @@ python3 updatedprojectmain.py
 
 ## 7. Create Wordpress setup in one click with backup
   
-  
+  ** To achieve you have to first install this all:
+     `sudo curl -L https://github.com/docker/compose/releases/download/1.21.2/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose'
+     `sudo chmod +x /usr/local/bin/docker-compose`       
+                     
   ![m](press7.png)
-  
-  
   
   ![m](output7.png)
   
