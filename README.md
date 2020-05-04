@@ -20,9 +20,24 @@ Only for Redhat8 Linux
 - wordpress
 
 ## Requirements/Installation
+#### After installation of Redhat Open your root account 
+   - Configure the yum 
+   - yum install httpd
+   - systemctl start httpd 
+   - systemctl enable httpd
+   - systemctl stop firewalld
+   - systemctl disable firewalld
+   - setenforce 0
+   - Configue the Docker 
+   - yum install docker-ce -nobest
+   - systemctl start docker
+   - systemctl enable docker
+   
+   **After all this done you have to restart the Redhat**
     
 
->Keep smiling and work harder
+
+
 
 
 [Linkedin](https://www.linkedin.com/in/omprakash-choudhari-252027196)
