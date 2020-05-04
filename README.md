@@ -109,6 +109,10 @@ ___
                      
   ![m](press7.png)
   
+  Give all the required data and it will create wordpress for you.
+  You can also check all the information of your wordpress by clicking info.
+  In case if wordpress corrupt your data will be safe and to see name of that storage device press info. 
+  
   ![m](output7.png)
 ___  
 ___
