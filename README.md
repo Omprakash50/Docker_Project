@@ -34,13 +34,20 @@ Only for Redhat8 Linux
    - systemctl enable docker
 
 **After all this done you have to restart the Redhat**
-# Output 
+# For Output
+```
+python3 updatedprojectmain.py
+```
 
 ## Menu 
   ![m](Welcome.png)
 
 ## 1. Create your own webserver in just one click 
   ![m](press1.png)
+  
+  After you press enter it will pull one image from docker hub created by me which will help to create
+  webserver . you have to give unique port number for your webserver and just write the contain you want to display .  
+  
   ![m](output1.png)
 
 ## 2. Make your own container and make image of that container
@@ -65,8 +72,10 @@ Only for Redhat8 Linux
   ![m](press7.png)
   ![m](output7.png)
   
+
+>Keep smiling and work harder  
   
-  ## Author
+## Author
 [**Ompraksh choudhari**](https://github.com/Omprakash50)
    
    [Linkedin](https://www.linkedin.com/in/omprakash-choudhari-252027196)
