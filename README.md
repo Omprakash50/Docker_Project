@@ -34,11 +34,12 @@ Only for Redhat8 Linux
    - systemctl enable docker
 
 **After all this done you have to restart the Redhat**
+---
 # For Output
 ```
 python3 updatedprojectmain.py
 ```
-
+___
 ## Menu 
   
   ![m](Welcome.png)
