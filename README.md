@@ -34,13 +34,39 @@ Only for Redhat8 Linux
    - systemctl enable docker
 
 **After all this done you have to restart the Redhat**
-        
-        
-        
-    
+# Output 
 
+## Menu 
+  ![m](Welcome.png)
 
+## 1. Create your own webserver in just one click 
+  ![m](press1.png)
+  ![m](output1.png)
 
+## 2. Make your own container and make image of that container
+  ![m](press2.png)        
 
+## 3. To create your own network and  change the network of any container
+  ![m](press3a.png)     
+  ![m](press3b.png)  
 
-[Linkedin](https://www.linkedin.com/in/omprakash-choudhari-252027196)
+## 4. To export your container image to another device  
+  ![m](press4.png)
+  ![m](output4.png)
+
+## 5. To upload  your container image to on docker hub
+  ![m](press5.png)
+  ![m](output5.png)     
+
+##  6. To create n numbers of webserver give comman name to all and attach one backup to it
+  ![m](press6.png)  
+
+## 7. Create Wordpress setup in one click with backup
+  ![m](press7.png)
+  ![m](output7.png)
+  
+  
+  ## Author
+[**Ompraksh choudhari**](https://github.com/Omprakash50)
+   
+   [Linkedin](https://www.linkedin.com/in/omprakash-choudhari-252027196)
