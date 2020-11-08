@@ -2,7 +2,7 @@ import os
 
 print("\n\n\t\t\t***Welcome to docker project***")
 print("\t\t---------------------------------------------")
-os.system("systeactl restart docker")
+os.system("systemctl restart docker")
 os.system("systemctl stop firewalld")
 os.system("setenforce 0")
 while True:
